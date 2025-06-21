@@ -1,0 +1,10 @@
+{
+  "ITACHI123": {
+    "days": 30,
+    "blocked": false
+  },
+  "BLOCKEDKEY": {
+    "days": 0,
+    "blocked": true
+  }
+}
