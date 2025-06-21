@@ -1,3 +1,10 @@
-ITACHI123=2025-12-31
-VIPKEY=2026-01-01
-MODZ999=2025-12-25
+{
+  "ITACHI123": {
+    "days": 30,
+    "blocked": false
+  },
+  "BLOCKEDKEY": {
+    "days": 0,
+    "blocked": true
+  }
+}
